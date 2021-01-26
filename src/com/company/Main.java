@@ -32,7 +32,7 @@ public class Main {
             return "Оставайтесь дома";
         }
     }
-    //Бекжан кот
+    //Нурс кот
 
     public static void mayIgoToWalk () {
         System.out.println("Age: ");
